@@ -1,0 +1,11 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Maven
+target/*
+
+secret.properties
+
+*.kml

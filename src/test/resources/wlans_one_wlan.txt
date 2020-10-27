@@ -1,0 +1,449 @@
+Wireless System Information Summary
+(Time: 22.10.2019 12:19:49 W. Europe Daylight Time)
+
+
+=======================================================================
+============================== SHOW DRIVERS ===========================
+=======================================================================
+
+
+Interface name: Wireless Network Connection
+
+    Driver                    : Intel(R) Dual Band Wireless-AC 3160
+    Vendor                    : Intel Corporation
+    Provider                  : Intel
+    Date                      : 22.02.2015
+    Version                   : 17.15.0.5
+    INF file                  : netwbw02.inf
+    Type                      : Native Wi-Fi Driver
+    Radio types supported     : 802.11b 802.11g 802.11n 802.11a 802.11ac
+    FIPS 140-2 mode supported : Yes
+    802.11w Management Frame Protection supported : Yes
+    Hosted network supported  : Yes
+    Authentication and cipher supported in infrastructure mode:
+                                Open            None
+                                Open            WEP-40bit
+                                Open            WEP-104bit
+                                Open            WEP
+                                WPA-Enterprise  TKIP
+                                WPA-Enterprise  CCMP
+                                WPA-Personal    TKIP
+                                WPA-Personal    CCMP
+                                WPA2-Enterprise TKIP
+                                WPA2-Enterprise CCMP
+                                WPA2-Personal   TKIP
+                                WPA2-Personal   CCMP
+                                Open            Vendor defined
+                                Vendor defined  Vendor defined
+    Authentication and cipher supported in ad-hoc mode:
+                                Open            None
+                                Open            WEP-40bit
+                                Open            WEP-104bit
+                                Open            WEP
+                                WPA2-Personal   CCMP
+    Wireless Display Supported: Yes (Graphics Driver: Yes, Wi-Fi Driver: Yes)
+
+
+=======================================================================
+============================= SHOW INTERFACES =========================
+=======================================================================
+
+
+There is 1 interface on the system:
+
+    Name                   : Wireless Network Connection
+    Description            : Intel(R) Dual Band Wireless-AC 3160
+    GUID                   : f08a0687-a3b5-464c-977a-5fdfa2aa3eb3
+    Physical address       : 30:3a:47:46:01:d1
+    State                  : disconnected
+    Radio status           : Hardware On
+                             Software On
+
+    Hosted network status  : Not started
+
+
+=======================================================================
+=========================== SHOW HOSTED NETWORK =======================
+=======================================================================
+
+
+Hosted network settings
+-----------------------
+    Mode                   : Allowed
+    Settings               : <Not configured>
+
+Hosted network status
+---------------------
+    Status                 : Not started
+
+
+=======================================================================
+============================= SHOW SETTINGS ===========================
+=======================================================================
+
+
+Wireless LAN settings
+---------------------
+    Show blocked networks in visible network list: No
+
+    Only use GP profiles on GP-configured networks: No
+
+    Hosted network mode allowed in WLAN service: Yes
+
+    Allow shared user credentials for network authentication: Yes
+
+    Block period: Not Configured.
+
+    Auto configuration logic is enabled on interface "Wireless Network Connection"
+    MAC randomization not available on interface Wireless Network Connection
+
+
+=======================================================================
+============================== SHOW FILTERS ===========================
+=======================================================================
+
+
+Allow list on the system (group policy)
+---------------------------------------
+    <None>
+
+Allow list on the system (user)
+-------------------------------
+    <None>
+
+Block list on the system (group policy)
+---------------------------------------
+    <None>
+
+Block list on the system (user)
+-------------------------------
+    <None>
+
+
+=======================================================================
+=========================== SHOW CREATEALLUSER ========================
+=======================================================================
+
+
+Everyone is allowed to create all user profiles.
+
+
+=======================================================================
+============================= SHOW PROFILES ===========================
+=======================================================================
+
+
+Profiles on interface Wireless Network Connection:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : NETGEAR42
+    All User Profile     : dd-wrt
+    All User Profile     : WLAN_256321
+
+
+=======================================================================
+========================== SHOW PROFILES NAME=* =======================
+=======================================================================
+
+
+Profile NETGEAR42 on interface Wireless Network Connection:
+=======================================================================
+
+Applied: All User Profile
+
+Profile information
+-------------------
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : NETGEAR42
+    Control options        :
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings
+---------------------
+    Number of SSIDs        : 1
+    SSID name              : "NETGEAR42"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings
+-----------------
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : Unknown
+    Security key           : Present
+
+Cost settings
+-------------
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile dd-wrt on interface Wireless Network Connection:
+=======================================================================
+
+Applied: All User Profile
+
+Profile information
+-------------------
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : dd-wrt
+    Control options        :
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings
+---------------------
+    Number of SSIDs        : 1
+    SSID name              : "dd-wrt"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings
+-----------------
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : Unknown
+    Security key           : Present
+
+Cost settings
+-------------
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile WLAN_256321 on interface Wireless Network Connection:
+=======================================================================
+
+Applied: All User Profile
+
+Profile information
+-------------------
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : WLAN_259321
+    Control options        :
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings
+---------------------
+    Number of SSIDs        : 1
+    SSID name              : "WLAN_259321"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings
+-----------------
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : Unknown
+    Security key           : Present
+
+Cost settings
+-------------
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+=======================================================================
+======================= SHOW NETWORKS MODE=BSSID ======================
+=======================================================================
+
+
+Interface name : Wireless Network Connection
+There are 1 networks currently visible.
+
+SSID 1 : BAR Gjest
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP
+    BSSID 1                 : 56:6f:7f:e2:31:8f
+         Signal             : 13%
+         Radio type         : 802.11ac
+         Channel            : 108
+         Basic rates (Mbps) : 12 36
+         Other rates (Mbps) : 9 18 24 48 54
+    BSSID 2                 : 28:6f:dd:ff:e9:a0
+         Signal             : 38%
+         Radio type         : 802.11n
+         Channel            : 1
+         Basic rates (Mbps) : 12 36
+         Other rates (Mbps) : 9 18 24 48 54
+    BSSID 3                 : 2c:05:2d:0a:96:c0
+         Signal             : 33%
+         Radio type         : 802.11n
+         Channel            : 6
+         Basic rates (Mbps) : 12 36
+         Other rates (Mbps) : 9 18 24 48 54
+    BSSID 4                 : 28:6f:7f:ff:a3:af
+         Signal             : 11%
+         Radio type         : 802.11ac
+         Channel            : 132
+         Basic rates (Mbps) : 12 36
+         Other rates (Mbps) : 9 18 24 48 54
+    BSSID 5                 : 2c:f4:2d:0a:96:cf
+         Signal             : 18%
+         Radio type         : 802.11ac
+         Channel            : 64
+         Basic rates (Mbps) : 12 36
+         Other rates (Mbps) : 9 18 24 48 54
+    BSSID 6                 : 2c:d0:2d:0a:76:0e
+         Signal             : 99%
+         Radio type         : 802.11ac
+         Channel            : 56
+         Basic rates (Mbps) : 12 36
+         Other rates (Mbps) : 9 18 24 48 54
+    BSSID 7                 : 2c:d0:ab:05:76:80
+         Signal             : 56%
+         Radio type         : 802.11n
+         Channel            : 6
+         Basic rates (Mbps) : 12 36
+         Other rates (Mbps) : 9 18 24 48 54
+    BSSID 8                 : 3d:d0:1a:3e:ec:80
+         Signal             : 26%
+         Radio type         : 802.11n
+         Channel            : 6
+         Basic rates (Mbps) : 12 36
+         Other rates (Mbps) : 9 18 24 48 54
+
+=======================================================================
+======================= SHOW INTERFACE CAPABILITIES ===================
+=======================================================================
+
+
+Wireless System Capabilities
+----------------------------
+    Number of antennas connected to the 802.11 radio (value not available)
+
+    Max number of channels the device can operate on, simultaneously (value not available)
+
+    Co-existence Support                        : Unknown
+
+
+Wireless Device Capabilities
+----------------------------
+
+Interface name: Wireless Network Connection
+
+    WDI Version (Windows)                       : 0.0.0.0
+
+    WDI Version (IHV)                           : 0.0.0.0
+
+    Firmware Version                            :
+
+    Station                                     : Supported
+
+    Soft AP                                     : Supported
+
+    Network monitor mode                        : Supported
+
+    Wi-Fi Direct Device                         : Supported
+
+    Wi-Fi Direct GO                             : Supported
+
+    Wi-Fi Direct Client                         : Supported
+
+    Protected Management Frames                 : Supported
+
+    DOT11k neighbor report                      : Unknown
+
+    ANQP Service Information Discovery          : Not Supported
+
+    Action Frame                                : Not Supported
+
+    Diversity Antenna                           : Unknown
+
+    IBSS                                        : Supported
+
+    Promiscuous Mode                            : Supported
+
+    P2P Device Discovery                        : Not Supported
+
+    P2P Service Name Discovery                  : Not Supported
+
+    P2P Service Info Discovery                  : Not Supported
+
+    P2P Background Discovery                    : Not Supported
+
+    P2P GO on 5 GHz                             : Unknown
+
+    ASP 2.0 Service Name Discovery              : Not Supported
+
+    ASP 2.0 Service Information Discovery       : Not Supported
+
+    IP Docking Capable                          : Not Supported
+
+    FIPS                                        : Supported
+
+    Instant Connect                             : Supported
+
+    Dx Standby NLO                              : Supported
+
+    Extended Channel Switch Announcement        : Unknown
+
+    Function Level Reset                        : Not Supported
+
+    Platform Level Reset                        : Not Supported
+
+    Bus Level Reset                             : Not Supported
+
+    MAC Randomization                           : Not Supported
+
+    Fast Transition                             : Not Supported
+
+    MU-MIMO                                     : Unknown
+
+    Miracast Sink                               : Unknown
+
+    BSS Transition (802.11v)                    : Unknown
+
+    IHV Extensibility Module Configured         : Not Supported
+
+    Number of Tx Spatial Streams                : 0
+
+    Number of Rx Spatial Streams                : 0
+
+    Number of Concurrent Channels Supported     : 2
+
+    P2P GO ports count                          : 1
+
+    P2P Clients Port Count                      : 1
+
+    P2P Max Mobile AP Clients                   : 8
+
+    Max ANQP Service Advertisements Supported   : 0
+
+    Co-existence Support                        : Unknown
+

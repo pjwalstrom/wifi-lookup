@@ -1,0 +1,18 @@
+Wireless System Information Summary
+
+=======================================================================
+======================= SHOW NETWORKS MODE=BSSID ======================
+=======================================================================
+
+SSID 1 : Do or die
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP
+    BSSID 1                 : 9c:5c:8e:47:ce:1c
+         Signal             : 45%
+         Radio type         : 802.11n
+         Channel            : 6
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+

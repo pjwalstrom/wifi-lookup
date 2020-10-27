@@ -1,0 +1,1423 @@
+Wireless System Information Summary
+(Time: 22.10.2019 09:52:00 W. Europe Daylight Time)
+
+
+======================================================================= 
+============================== SHOW DRIVERS =========================== 
+=======================================================================
+
+
+Interface name: Wi-Fi 2
+
+    Driver                    : Intel(R) Dual Band Wireless-AC 8265
+    Vendor                    : Intel Corporation
+    Provider                  : Intel
+    Date                      : 26.11.2018
+    Version                   : 20.70.5.2
+    INF file                  : oem69.inf
+    Type                      : Native Wi-Fi Driver
+    Radio types supported     : 802.11b 802.11g 802.11n 802.11a 802.11ac
+    FIPS 140-2 mode supported : Yes
+    802.11w Management Frame Protection supported : Yes
+    Hosted network supported  : No
+    Authentication and cipher supported in infrastructure mode:
+                                Open            None
+                                Open            WEP-40bit
+                                Open            WEP-104bit
+                                Open            WEP
+                                WPA-Enterprise  TKIP
+                                WPA-Enterprise  CCMP
+                                WPA-Personal    TKIP
+                                WPA-Personal    CCMP
+                                WPA2-Enterprise TKIP
+                                WPA2-Enterprise CCMP
+                                WPA2-Personal   TKIP
+                                WPA2-Personal   CCMP
+                                Open            Vendor defined
+                                Vendor defined  Vendor defined
+    IHV service present       : Yes
+    IHV adapter OUI           : [00 80 86], type: [00]
+    IHV extensibility DLL path: C:\WINDOWS\system32\IntelWifiIhv06.dll
+    IHV UI extensibility ClSID: {1bf6cb2d-2ae0-4879-a7aa-a75834fbd0e3}
+    IHV diagnostics CLSID     : {00000000-0000-0000-0000-000000000000}
+    Wireless Display Supported: Yes (Graphics Driver: Yes, Wi-Fi Driver: Yes)
+
+
+======================================================================= 
+============================= SHOW INTERFACES ========================= 
+=======================================================================
+
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi 2
+    Description            : Intel(R) Dual Band Wireless-AC 8265 #2
+    GUID                   : 18e65b0b-7052-4bd8-b421-2a9be52cf96c
+    Physical address       : 48:f1:7f:bc:5c:a5
+    State                  : connected
+    SSID                   : CorporateLM
+    BSSID                  : 08:ec:f5:a4:93:8a
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Channel                : 100
+    Receive rate (Mbps)    : 360
+    Transmit rate (Mbps)   : 360
+    Signal                 : 91% 
+    Profile                : CorporateLM 
+
+    Hosted network status  : Not available
+
+
+======================================================================= 
+=========================== SHOW HOSTED NETWORK ======================= 
+=======================================================================
+
+
+Hosted network settings 
+----------------------- 
+    Mode                   : Allowed
+    Settings               : <Not configured>
+
+Hosted network status   
+--------------------- 
+    Status                 : Not available
+
+
+======================================================================= 
+============================= SHOW SETTINGS =========================== 
+=======================================================================
+
+
+Wireless LAN settings 
+--------------------- 
+    Show blocked networks in visible network list: No
+
+    Only use GP profiles on GP-configured networks: No
+
+    Hosted network mode allowed in WLAN service: Yes
+
+    Allow shared user credentials for network authentication: Yes
+
+    Block period: Not Configured.
+
+    Auto configuration logic is enabled on interface "Wi-Fi 2"
+    MAC randomization disabled on interface Wi-Fi 2
+
+
+======================================================================= 
+============================== SHOW FILTERS =========================== 
+=======================================================================
+
+
+Allow list on the system (group policy) 
+--------------------------------------- 
+    <None>
+
+Allow list on the system (user) 
+------------------------------- 
+    <None>
+
+Block list on the system (group policy) 
+--------------------------------------- 
+    <None>
+
+Block list on the system (user) 
+------------------------------- 
+    <None>
+
+
+======================================================================= 
+=========================== SHOW CREATEALLUSER ======================== 
+=======================================================================
+
+
+Everyone is allowed to create all user profiles.
+
+
+======================================================================= 
+============================= SHOW PROFILES =========================== 
+=======================================================================
+
+
+Profiles on interface Wi-Fi 2:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : CorporateLM
+    All User Profile     : Ivar Aasensvei 1
+    All User Profile     : SafetyWiFi - Teknologihuset
+    All User Profile     : ZanderK-Guest
+    All User Profile     : The Leela
+    All User Profile     : Radisson Blu Pune Hinjawadi
+    All User Profile     : Privat_5G
+    All User Profile     : Pixel_hotspot
+    All User Profile     : Pariksheet
+    All User Profile     : OnAir
+    All User Profile     : Oberoi Group
+    All User Profile     : Kysthusene-wifi-password
+    All User Profile     : Gevir
+    All User Profile     : GUESTWIFI
+    All User Profile     : E6
+
+
+======================================================================= 
+========================== SHOW PROFILES NAME=* ======================= 
+=======================================================================
+
+
+Profile CorporateLM on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : CorporateLM
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect even if this network is not broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "CorporateLM"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Enterprise
+    Cipher                 : CCMP
+    Authentication         : WPA2-Enterprise
+    Cipher                 : GCMP
+    FIPS mode              : Disabled
+    Security key           : Absent
+    802.1X                 : Enabled
+    EAP type               : Microsoft: Smart Card or other certificate
+    802.1X auth credential : User credential
+    Credentials configured : No
+    Cache user information : Yes
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Ivar Aasensvei 1 on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Ivar Aasensvei 1
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Ivar Aasensvei 1"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile SafetyWiFi - Teknologihuset on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : SafetyWiFi - Teknologihuset
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "SafetyWiFi - Teknologihuset"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile ZanderK-Guest on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : ZanderK-Guest
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "ZanderK-Guest"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile The Leela on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : The Leela
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "The Leela"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : Open
+    Cipher                 : None
+    Security key           : Absent
+    Key Index              : 1
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Radisson Blu Pune Hinjawadi on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Radisson Blu Pune Hinjawadi
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Radisson Blu Pune Hinjawadi"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : Open
+    Cipher                 : None
+    Security key           : Absent
+    Key Index              : 1
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Privat_5G on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Privat_5G
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Privat_5G"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Pixel_hotspot on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Pixel_hotspot
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Pixel_hotspot"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Pariksheet on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Pariksheet
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Pariksheet"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile OnAir on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : OnAir
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "OnAir"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : Open
+    Cipher                 : None
+    Security key           : Absent
+    Key Index              : 1
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Oberoi Group on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Oberoi Group
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Oberoi Group"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : Open
+    Cipher                 : None
+    Security key           : Absent
+    Key Index              : 1
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Kysthusene-wifi-password on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Kysthusene-wifi-password
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Kysthusene-wifi-password"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Gevir on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Gevir
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Gevir"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile GUESTWIFI on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : GUESTWIFI
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "GUESTWIFI"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : Open
+    Cipher                 : None
+    Security key           : Absent
+    Key Index              : 1
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile E6 on interface Wi-Fi 2: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : E6
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "E6"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+======================================================================= 
+======================= SHOW NETWORKS MODE=BSSID ====================== 
+=======================================================================
+
+ 
+Interface name : Wi-Fi 2 
+There are 11 networks currently visible. 
+
+SSID 1 : 
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 08:ec:f5:cd:c5:ac
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 112 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 2                 : 08:ec:f5:cd:c5:aa
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 112 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 3                 : 70:b3:17:e7:6a:6a
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 4                 : 08:ec:f5:a4:93:85
+         Signal             : 93%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 5                 : 08:ec:f5:b7:d4:23
+         Signal             : 40%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 6                 : 08:ec:f5:9d:5f:c3
+         Signal             : 40%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 1 2 5.5 6 9 11 18 24 36 48 54
+    BSSID 7                 : 70:b3:17:4a:06:ec
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 8                 : 70:b3:17:e7:6a:6c
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 9                 : 70:b3:17:55:fb:4c
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 10                 : 70:b3:17:4a:06:ea
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 11                 : 08:ec:f5:8e:0b:cf
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 112 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 12                 : 08:ec:f5:b8:23:ec
+         Signal             : 65%  
+         Radio type         : 802.11ac
+         Channel            : 108 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 13                 : 08:ec:f5:a4:93:8c
+         Signal             : 83%  
+         Radio type         : 802.11ac
+         Channel            : 100 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 14                 : 70:b3:17:e7:54:0c
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 56 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 15                 : 70:b3:17:e7:54:0a
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 56 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 16                 : 08:ec:f5:b8:23:e3
+         Signal             : 78%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 17                 : 08:ec:f5:a4:91:65
+         Signal             : 43%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+
+SSID 2 : 
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 08:ec:f5:cd:c5:af
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 112 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 2                 : 08:ec:f5:b8:23:ee
+         Signal             : 67%  
+         Radio type         : 802.11ac
+         Channel            : 108 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 3                 : 70:b3:17:fa:74:2e
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 56 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 4                 : 70:b3:17:e7:6a:6f
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 5                 : 70:b3:17:4a:06:ef
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 6                 : 70:b3:17:55:fb:4d
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 7                 : 08:ec:f5:8e:0b:ce
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 112 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 8                 : 70:b3:17:e7:54:0e
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 56 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 9                 : 08:ec:f5:b8:23:e1
+         Signal             : 83%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+
+SSID 3 : 
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : e2:9f:c2:a2:1a:01
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 40 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+    BSSID 2                 : fe:9f:c2:a2:1a:01
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 40 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 4 : guests
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+    BSSID 1                 : 34:db:fd:0a:65:8a
+         Signal             : 65%  
+         Radio type         : 802.11n
+         Channel            : 140 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 2                 : 70:b3:17:4a:06:ee
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 3                 : 70:b3:17:e7:6a:6e
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 4                 : 70:b3:17:55:fb:4e
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 5                 : 08:ec:f5:8e:0b:ca
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 112 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 6                 : 08:ec:f5:b8:23:ef
+         Signal             : 67%  
+         Radio type         : 802.11ac
+         Channel            : 108 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 7                 : 08:ec:f5:a4:93:8e
+         Signal             : 86%  
+         Radio type         : 802.11ac
+         Channel            : 100 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 8                 : 70:b3:17:e7:54:0f
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 56 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 9                 : 08:ec:f5:b8:23:e0
+         Signal             : 83%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 10                 : 08:ec:f5:b7:d4:21
+         Signal             : 40%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 11                 : 08:ec:f5:a4:91:6f
+         Signal             : 50%  
+         Radio type         : 802.11ac
+         Channel            : 48 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+
+SSID 5 : EnrollmentLM
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 34:db:fd:0a:65:8c
+         Signal             : 65%  
+         Radio type         : 802.11n
+         Channel            : 140 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 2                 : 08:ec:f5:a4:93:84
+         Signal             : 93%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 3                 : 70:b3:17:4a:06:eb
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 4                 : 70:b3:17:e7:6a:6b
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 5                 : 70:b3:17:55:fb:4b
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 6                 : 08:ec:f5:8e:0b:cc
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 112 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 7                 : 08:ec:f5:b8:23:eb
+         Signal             : 67%  
+         Radio type         : 802.11ac
+         Channel            : 108 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 8                 : 08:ec:f5:a4:93:8b
+         Signal             : 82%  
+         Radio type         : 802.11ac
+         Channel            : 100 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 9                 : 08:ec:f5:a4:91:6b
+         Signal             : 50%  
+         Radio type         : 802.11ac
+         Channel            : 48 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 10                 : 08:ec:f5:9d:5f:c4
+         Signal             : 40%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 1 2 5.5 6 9 11 18 24 36 48 54
+
+SSID 6 : 
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 34:db:fd:0a:65:8e
+         Signal             : 62%  
+         Radio type         : 802.11n
+         Channel            : 140 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 2                 : 34:db:fd:0a:65:8d
+         Signal             : 62%  
+         Radio type         : 802.11n
+         Channel            : 140 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 3                 : 34:db:fd:0a:65:80
+         Signal             : 65%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 4                 : 34:db:fd:0a:65:8f
+         Signal             : 65%  
+         Radio type         : 802.11n
+         Channel            : 140 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 5                 : 34:db:fd:0a:65:81
+         Signal             : 50%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+
+SSID 7 : CorporateLM
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 34:db:fd:0a:65:8b
+         Signal             : 65%  
+         Radio type         : 802.11n
+         Channel            : 140 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 2                 : 08:ec:f5:8e:58:45
+         Signal             : 60%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 1 2 5.5 6 9 11 18 24 36 48 54
+    BSSID 3                 : 70:b3:17:55:fb:4a
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 4                 : 08:ec:f5:b8:23:ea
+         Signal             : 67%  
+         Radio type         : 802.11ac
+         Channel            : 108 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 5                 : 08:ec:f5:a4:93:8a
+         Signal             : 91%  
+         Radio type         : 802.11ac
+         Channel            : 100 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 6                 : 08:ec:f5:a4:91:6a
+         Signal             : 65%  
+         Radio type         : 802.11ac
+         Channel            : 48 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+
+SSID 8 : 
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 08:ec:f5:b8:23:ed
+         Signal             : 70%  
+         Radio type         : 802.11ac
+         Channel            : 108 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 2                 : 08:ec:f5:9d:5f:c2
+         Signal             : 40%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 1 2 5.5 6 9 11 18 24 36 48 54
+    BSSID 3                 : 70:b3:17:fa:74:2d
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 56 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 4                 : 70:b3:17:55:fb:4f
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 5                 : 70:b3:17:4a:06:ed
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 6                 : 70:b3:17:e7:6a:6d
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 132 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 7                 : 08:ec:f5:8e:0b:cd
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 112 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 8                 : 08:ec:f5:a4:93:8d
+         Signal             : 85%  
+         Radio type         : 802.11ac
+         Channel            : 100 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 9                 : 70:b3:17:e7:54:0d
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 56 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+    BSSID 10                 : 08:ec:f5:b8:23:e2
+         Signal             : 78%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 12
+         Other rates (Mbps) : 18 24 36 48 54
+
+SSID 9 : 
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+    BSSID 1                 : f6:9f:c2:a2:1a:01
+         Signal             : 40%  
+         Radio type         : 802.11ac
+         Channel            : 40 
+         Basic rates (Mbps) : 6 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 10 : TP-LINK_F2E0
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : c0:25:e9:e0:f2:e0
+         Signal             : 46%  
+         Radio type         : 802.11n
+         Channel            : 8 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 11 : NOKIA Lumia 635_0956
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 10:2f:6b:af:48:56
+         Signal             : 40%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+
+======================================================================= 
+======================= SHOW INTERFACE CAPABILITIES =================== 
+=======================================================================
+
+
+Wireless System Capabilities 
+---------------------------- 
+    Number of antennas connected to the 802.11 radio (value not available)
+
+    Max number of channels the device can operate on, simultaneously (value not available)
+
+    Co-existence Support                        : Unknown
+
+
+Wireless Device Capabilities 
+---------------------------- 
+
+Interface name: Wi-Fi 2
+
+    WDI Version (Windows)                       : 0.1.1.8
+
+    WDI Version (IHV)                           : 0.1.1.6
+
+    Firmware Version                            : 24.68
+
+    Station                                     : Supported
+
+    Soft AP                                     : Not supported
+
+    Network monitor mode                        : Not supported
+
+    Wi-Fi Direct Device                         : Supported
+
+    Wi-Fi Direct GO                             : Supported
+
+    Wi-Fi Direct Client                         : Supported
+
+    Protected Management Frames                 : Supported
+
+    DOT11k neighbor report                      : Supported
+
+    ANQP Service Information Discovery          : Supported
+
+    Action Frame                                : Supported
+
+    Diversity Antenna                           : Supported
+
+    IBSS                                        : Not Supported
+
+    Promiscuous Mode                            : Not Supported
+
+    P2P Device Discovery                        : Supported
+
+    P2P Service Name Discovery                  : Supported
+
+    P2P Service Info Discovery                  : Not Supported
+
+    P2P Background Discovery                    : Supported
+
+    P2P GO on 5 GHz                             : Supported
+
+    ASP 2.0 Service Name Discovery              : Not Supported
+
+    ASP 2.0 Service Information Discovery       : Not Supported
+
+    IP Docking Capable                          : Not Supported
+
+    FIPS                                        : Supported
+
+    Instant Connect                             : Supported
+
+    Dx Standby NLO                              : Supported
+
+    Extended Channel Switch Announcement        : Supported
+
+    Function Level Reset                        : Supported
+
+    Platform Level Reset                        : Supported
+
+    Bus Level Reset                             : Supported
+
+    MAC Randomization                           : Supported
+
+    Fast Transition                             : Supported
+
+    MU-MIMO                                     : Supported
+
+    Miracast Sink                               : Supported
+
+    BSS Transition (802.11v)                    : Supported
+
+    IHV Extensibility Module Configured         : Supported
+
+    SAE Authentication                          : Not Supported
+
+    FTM as Initiator                          : Not Supported
+
+    MBO Support                                 : Not Supported
+
+    Number of Tx Spatial Streams                : 2
+
+    Number of Rx Spatial Streams                : 2
+
+    Number of Concurrent Channels Supported     : 0
+
+    P2P GO ports count                          : 1
+
+    P2P Clients Port Count                      : 1
+
+    P2P Max Mobile AP Clients                   : 10
+
+    Max ANQP Service Advertisements Supported   : 0
+
+    Co-existence Support                        : Wi-Fi performance is maintained
+
+

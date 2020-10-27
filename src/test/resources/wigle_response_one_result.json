@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "totalResults": 1,
+  "first": 1,
+  "last": 1,
+  "resultCount": 1,
+  "results": [
+    {
+      "trilat": 61.9093131991234997105987858958542346954345703125,
+      "trilong": 13.8175964412340008680535756866447627544403076171875,
+      "ssid": "BAR Gjest",
+      "qos": 3,
+      "transid": "20180509-00000",
+      "firsttime": "2018-05-09T04:00:00.000Z",
+      "lasttime": "2019-10-20T23:00:00.000Z",
+      "lastupdt": "2019-10-20T23:00:00.000Z",
+      "netid": "34:6F:8A:E2:31:8F",
+      "name": null,
+      "type": "infra",
+      "comment": null,
+      "wep": "2",
+      "bcninterval": 0,
+      "freenet": "?",
+      "dhcp": "?",
+      "paynet": "?",
+      "userfound": false,
+      "channel": 108,
+      "encryption": "wpa2",
+      "country": "NO",
+      "region": null,
+      "housenumber": "23",
+      "road": "John Jensens vei",
+      "city": "Oslo",
+      "postalcode": "0192"
+    }
+  ],
+  "searchAfter": "44459352011151",
+  "search_after": 44459352011151
+}
