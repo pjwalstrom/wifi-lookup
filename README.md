@@ -18,7 +18,7 @@ To be able to query the Wigle-API, you need a Wigle-user and the user's BASE64-e
 
 You also need the following:
 ```
-Java version 13+
+Java version 17+
 Maven version 3+
 ```
 
@@ -39,6 +39,8 @@ Contributions are of course welcome. If you develop new features or fix bugs, **
 - Wigle quota. Users are limited to a small number of queries a day
 
 ## Changelog
+### [0.0.5] - 2023-01-04
+- update dependencies, java version 17, Groovy 4
 ### [0.0.4] - 2020-10-27
 - update dependencies, java version 13
 ### [0.0.3] - 2020-01-29
@@ -50,4 +52,3 @@ Contributions are of course welcome. If you develop new features or fix bugs, **
 
 ## Support
 If stuck, ask pjwalstrom@gmail.com for support.
-

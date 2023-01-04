@@ -2,6 +2,7 @@ package me.pj
 
 import org.xml.sax.SAXParseException
 import spock.lang.Specification
+import groovy.xml.XmlSlurper
 
 import java.time.LocalDateTime
 
